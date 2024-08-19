@@ -1,0 +1,75 @@
+# Billing Validation End to End Process
+
+## Purpose
+The purpose of this SOP is to define the steps and responsibilities involved in the Billing Validation End to End process to ensure accurate billing for all customers.
+
+## Scope
+This procedure applies to the Billing Operations team and any other departments involved in the billing process.
+
+## Responsibilities
+- **Billing Operations Team**: Responsible for validating all billing data and ensuring accuracy.
+- **IT Support**: Responsible for resolving any technical issues that arise during the validation process.
+- **Revenue Assurance**: Responsible for reviewing and approving the final billing data.
+
+## Process Overview
+The Billing Validation End to End process consists of the following stages:
+
+1. **Data Extraction**
+   - Extract customer usage data from the billing system.
+   - Verify the data format and completeness.
+
+2. **Pre-Validation Checks**
+   - Run pre-validation scripts to ensure data integrity.
+   - Check for missing or duplicate entries.
+   - Generate a pre-validation report.
+
+3. **Billing Validation**
+   - Compare extracted data against predefined billing rules.
+   - Identify and log discrepancies.
+   - Validate tariffs and discounts applied to each customer.
+
+4. **Issue Resolution**
+   - Review discrepancies identified during validation.
+   - Escalate unresolved issues to the IT Support team.
+   - Document any resolutions in the issue log.
+
+5. **Final Validation**
+   - Re-run validation after resolving issues.
+   - Ensure all discrepancies have been addressed.
+   - Generate a final validation report.
+
+6. **Approval**
+   - Submit the final validation report to the Revenue Assurance team.
+   - Obtain approval before proceeding to billing.
+
+7. **Billing Execution**
+   - Execute the billing run based on the approved data.
+   - Monitor the billing process to ensure no errors occur.
+
+8. **Post-Billing Audit**
+   - Conduct a post-billing audit to confirm the accuracy of the billing run.
+   - Address any post-billing issues immediately.
+
+## Tools and Resources
+- **Billing System**: The primary system used for extracting and validating billing data.
+- **Validation Scripts**: Custom scripts used for data validation.
+- **Issue Log**: A shared document for tracking and resolving billing issues.
+- **Revenue Assurance Guidelines**: A set of guidelines provided by the Revenue Assurance team.
+
+## Definitions and Acronyms
+- **SOP**: Standard Operating Procedure
+- **IT**: Information Technology
+- **RA**: Revenue Assurance
+
+## Revision History
+| Version | Date       | Author       | Description                        |
+|---------|------------|--------------|------------------------------------|
+| 1.0     | 2024-08-14 | [Your Name]  | Initial version of the SOP document|
+
+## References
+- Company Billing Policy Document
+- Revenue Assurance Guidelines
+
+## Approval
+- **Approved by**: [Manager's Name]
+- **Date**: [Approval Date]
